@@ -1,3 +1,3 @@
 # 322_project
 
-It's a markdown file in this repository.
+Going to put KanBan and Backlog here. Maybe will add copies of code.
